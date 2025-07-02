@@ -19,7 +19,7 @@ This project was created as a learning exercise to practice and improve Go progr
 ### Build the project
 
 ```bash
-go build -o gotree
+go build -o gotree main.go
 ```
 
 ### Running
